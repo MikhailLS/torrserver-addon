@@ -33,7 +33,7 @@ LABEL \
     org.opencontainers.image.title="${BUILD_NAME}" \
     org.opencontainers.image.description="${BUILD_DESCRIPTION}" \
     org.opencontainers.image.vendor="TorrServer Home Assistant addon" \
-    org.opencontainers.image.authors="Lisov Mikhail <michaellisovs@gmail.com>" \
+    org.opencontainers.image.authors="Aleksandr Trubilin <aatrubilin@gmail.com>" \
     org.opencontainers.image.licenses="MIT" \
     org.opencontainers.image.url="https://github.com/aatrubilin/hassio-torrserver" \
     org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \

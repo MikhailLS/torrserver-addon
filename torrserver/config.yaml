@@ -4,7 +4,7 @@ version: 0.1.2
 slug: torrserver
 description: TorrServer for home assistant
 url: https://github.com/aatrubilin/hassio-torrserver
-codenotary: michaellisovs@gmail.com
+codenotary: aatrubilin@gmail.com
 webui: http://[HOST]:[PORT:8090]
 init: false
 auth_api: true
